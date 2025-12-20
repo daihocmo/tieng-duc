@@ -1,0 +1,71 @@
+site_name: Tiếng Đức - Khu học mở
+site_description: Tự học Tiếng Đức thông qua Immersion và Comprehensible Input, hoàn toàn miễn phí.
+site_author: duykhanh471
+site_url: https://daihocmo.github.io
+repo_name: Đóng góp & Chỉnh sửa trang
+repo_url: https://github.com/daihocmo/tieng-duc
+
+nav:
+  - 'Trang chủ': 'index.md'
+  - 'Hướng dẫn': 'guide.md'
+  - 'Tài nguyên': 'resources.md'
+  - 'Các gợi ý khác': 'recommendations.md'
+ 
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  logo: img/logo.png
+  favicon: img/logo.png
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+plugins:
+  - search
+  - open-in-new-tab
+  
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+extra:
+  generator: false
+  homepage: https://daihocmo.github.io/
+
+copyright: |
+  <a href="https://daihocmo.github.io">Một dự án của Khu học mở</a>
