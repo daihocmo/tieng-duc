@@ -7,9 +7,14 @@ repo_url: https://github.com/daihocmo/tieng-duc
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
-  - 'Các gợi ý khác': 'recommendations.md'
+  - 'Hướng dẫn': 
+    - 'Tự học Tiếng Đức': 'guide.md'
+    - 'Immersion': 'immersion.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên học': 'resources.md'
+    - 'Nội dung Tiếng Đức': 'recommendations.md'
  
 theme:
   palette:
