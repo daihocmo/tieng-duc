@@ -9,12 +9,15 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
     - 'Tự học Tiếng Đức': 'guide.md'
-    - 'Immersion': 'immersion.md'
+    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
   - 'Yomitan':
-    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+    - 'Hướng dẫn cài đặt': 'yomitan.md'
+    - 'Mining với Anki & Yomitan': 'mining.md'
   - 'Tài nguyên': 
-    - 'Tài nguyên học': 'resources.md'
+    - 'Học': 'resources.md'
+    - 'Comprehensible Input': 'comprehensible-input.md'
     - 'Nội dung Tiếng Đức': 'recommendations.md'
+    - 'Tham gia cộng đồng học trên Discord': 'join.md'
  
 theme:
   palette:
@@ -37,6 +40,7 @@ theme:
         name: Switch to light mode
   logo: img/logo.png
   favicon: img/logo.png
+  custom_dir: overrides/
   features:
     - navigation.instant
     - navigation.sections

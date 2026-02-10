@@ -1,127 +1,232 @@
 # Tự học Tiếng Đức
 
+*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[Cách để học Tiếng Đức](#21-cach-hoc-tieng-uc)**.*
+
 ![https://safebooru.org/index.php?page=post&s=view&id=5521525](img/sleep-well.png){:  style="display: block; margin: 0 auto; max-width:70%; height:auto;" }
 
-Đây là một hướng dẫn (lộ trình) tự học Tiếng Đức thông qua Comprehensible Input (Nội dung dễ hiểu) và Immersion, *hoàn toàn miễn phí*.
+## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
-Bạn sẽ cần thời gian. *Rất nhiều thời gian*. Không thể học một ngôn ngữ chỉ trong một tháng, ai nói vậy thì chỉ nói vớ vẩn thôi. Điều quan trọng là phải học **liên tục mỗi ngày**, hoặc ít nhất là gần như vậy. Bạn cần xây dựng thói quen tiếp xúc thường xuyên với ngôn ngữ, đó là cách duy nhất để tiến bộ thật sự. Có nhiều ước tính ngoài kia về tổng số giờ cần để học một ngôn ngữ. Khi mình dành nhiều thời gian hơn mỗi ngày, mình tiến bộ nhanh hơn -- đơn giản vậy thôi.
+Có một số lượng không nhỏ những người bắt đầu học Tiếng Đức để có thể trải nghiệm nội dung bằng Tiếng Đức hoặc để có thể nói Tiếng Đức trôi chảy và một số các mục tiêu khác. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
 
-Bạn nên (*cần*) đọc [Hướng dẫn tự học ngoại ngữ đầy đủ này](https://daihocmo.github.io/ngoai-ngu/orca/giai-doan-0/) để hiểu về phương pháp học ngoại ngữ được trình bày trong trang này.
+Có lẽ vấn đề không phải nằm ở những người học ấy, mà là ở phương pháp. Trong việc học ngôn ngữ, phương pháp học của bạn tạo ra sự khác biệt rất lớn trong khả năng và tốc độ tiến bộ ngoại ngữ của bạn.
 
-## Nền tảng
+Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/39UDZMgPg5k?si=nZmyYhgR9yN4Nnxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Ví dụ: Xem phim Đức không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Đức.
+
+## 1.2 Vấn đề của phương pháp học truyền thống
+
+![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ kiểu như này:
+
+- Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+- Học cấu trúc ngữ pháp và từ vựng cơ bản.
+- Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+- Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
+- Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+- Thực hành hội thoại sử dụng kiến thức đã học.
+- Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
+
+Bản thân việc học như này hoàn toàn ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
+
+Lấy bơi lội làm ví dụ: Bạn không thể chỉ mãi ở hồ dành cho trẻ con, đeo phao và hy vọng rằng mình sẽ thành thạo kỹ thuật bơi trong cái hồ đó trước khi bước sang hồ lớn. Làm vậy sẽ không bao giờ khiến bạn trở thành một người biết bơi thực thụ. Cũng giống như bạn không thể trở thành vận động viên bơi lội chỉ bằng cách học lý thuyết và luyện động tác trên cạn, mà không bao giờ nhảy xuống nước thật.
+
+Một ví dụ dễ liên hệ hơn: game đối kháng. Bạn sẽ không thể chơi giỏi chỉ bằng cách luyện với máy hoặc tập trong chế độ huấn luyện cả ngày. Muốn giỏi, bạn phải bước vào trận đấu thực sự – chơi với người thật, chấp nhận rằng mình có thể thua tơi tả. Đó mới là “chơi thật”.
+
+<div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
+  Điều quan trọng là: phải học cách bước tiếp
+</div>
+
+Người mới học thường mắc một cái bẫy là cố gắng học tài liệu cho đến khi hiểu hết mới thôi và không thực hiện immersion vì chưa cảm thấy thoải mái hay "sẵn sàng". Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
+
+Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
+
+Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang bện một sợi dây thừng để việc leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó bện dây mãi – đến một lúc nào đó, bạn phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *làm*.
+
+## 1.3 Quy mô của ngôn ngữ
+
+Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
+
+Và thường thì rất khó để hiểu tại sao họ lại dùng *câu đó* trong *tình huống kia*, hay *từ này* thay vì *từ kia*. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
+
+Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
+
+Đây là lý do tại sao trong việc học ngoại ngữ cần có **"immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
+
+Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô thức thông qua comprehensible input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào trong đầu để có thể sử dụng trong tương lai. Nó sẽ kiểu như: "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và mẫu số 10 kìa".
+
+Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người không phải là người bản ngữ Tiếng Đức và có thể là đã học ngữ pháp Tiếng Đức từ trước, nhưng họ sẽ chẳng mấy khi nghĩ về các cấu trúc ngữ pháp khi tương tác với Tiếng Đức hàng ngày.
+
+
+## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
+
+![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Trong việc học ngôn ngữ hay trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng chúng trong thực tế.
+
+Ví dụ, một người học khi cố học một cấu trúc ngữ pháp nào đó quá lâu và không chuyển sang những nội dung khác mà họ nên học.
+
+<div style="text-align: center; font-weight:bold">
+<h3>↑ Đây là điều chúng ta cần tránh</h3 >  </div>
+
+Không dễ dàng gì để có thể hiểu hết quyển tiểu thuyết hay một bộ phim ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
+
+## 1.5 "Immersion" là cái gì?
+
+Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Đức). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ. Bạn không cần phải sang nước đó hay nói chuyện trực tiếp với người bản ngữ để có thể immersion. Chỉ cần bạn tiếp cận được các nội dung bằng ngôn ngữ mục tiêu là được, ví dụ như xem Youtube Tiếng Đức chẳng hạn.
+
+Người học duy trì môi trường immersion bằng cách thực hiện phần lớn các hoạt động hằng ngày bằng ngôn ngữ mục tiêu. Ví dụ: buổi sáng đọc tin tức bằng ngôn ngữ mục tiêu, trên đường đi làm hoặc đi học thì nghe radio bằng ngôn ngữ đó, về nhà thì xem phim bằng ngôn ngữ mục tiêu, v.v.
+
+Thông thường, immersion được chia thành hai loại: thụ động (passive/background) và chủ động (active). Immersion chủ động yêu cầu bạn tập trung hoàn toàn vào nội dung, trong khi immersion thụ động là khi bạn nghe ngôn ngữ mục tiêu trong lúc đang làm một việc khác (Sẽ bàn thêm ở phần dưới của hướng dẫn này).
+
+## 1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học ngôn ngữ
+
+Khi học một ngôn ngữ, việc không hiểu tất cả nội dung của ngôn ngữ đó là chuyện hết sức bình thường.
+
+Điều này hoàn toàn khác so với cách học ở trường lớp, nơi chủ nghĩa hoàn hảo được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi. 
+
+Những người học ở trên dễ cảm thấy nản vì không hiểu được tất cả hoặc phần nhiều khi tương tác với ngôn ngữ thực tế, cho dù đó là một bộ phim truyền hình, hay một quyển sách hoặc thậm chí chỉ là một cuộc hội thoại bình thường với người bản ngữ. Việc tiếp tục như vậy khi bạn hiểu rất ít nghe có vẻ không hợp lí, nhưng như đã nói ở các phần trước, học một ngôn ngữ cũng giống như nhảy vào hố sâu bất tận vậy.
+
+Điều khiến việc học ngôn ngữ trở nên quá đỗi khác biệt so với các môn học ở trường là nó dựa trên việc sử dụng ngôn ngữ một cách tự nhiên và thực tế, thứ mà tài liệu học tập không thể truyền tải được. Vì vậy, cách duy nhất để làm quen với mọi thứ là chấp nhận sự mù mờ (low comprehension - độ hiểu thấp), vì càng tương tác với ngôn ngữ nhiều thì sẽ càng tiến bộ hơn.
+
+Tất nhiên, chúng ta không *chỉ* thực hiện immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình immersion.
+
+## 2.1 Cách học Tiếng Đức
+
+### Quá trình học tập ban đầu
+
+Quá trình học tập mở đầu bao gồm bao gồm:
+
+- Làm quen với Tiếng Đức.
+- Học từ vựng cơ bản sử dụng *Anki*.
+- Học ngữ pháp thông qua một danh sách phát trên *YouTube*.
+- Bắt đầu immerse với comprehensible input cường độ cao. Đây là nhiệm vụ mà bạn cần dành phần lớn thời gian.
 
 ### Bảng chữ cái
 
 ![](img/alphabet.png)
 
-*Nhìn qua bảng chữ cái Tiếng Đức phát*
+Mục tiêu của phần này là giúp người học nhận diện mặt chữ và phát âm tương đối đúng các âm cơ bản trong tiếng Đức, đặc biệt là những âm khác với tiếng Việt như “ch”, “sch”, “ö”, “ü”. Trước hết, người học nên xem toàn bộ bảng chữ cái để biết tiếng Đức có những chữ và tổ hợp âm nào, sau đó xem video hướng dẫn phát âm và đọc theo thành tiếng. Không cần ghi nhớ hoàn hảo hay phân biệt mọi sắc thái phát âm, chỉ cần nghe – đọc theo và nhận ra được các âm khi gặp lại.
 
-Làm quen với bảng chữ cái tiếng Đức và các âm đặc trưng như “ch”, “sch”, “ö”, “ü”.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xYuPIQMvEsg?si=EOwI9T_QiOEwpHJ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xYuPIQMvEsg?si=EOwI9T_QiOEwpHJ3" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ### Về cơ bản thì
 
-Mình sẽ tập trung vào những nền tảng cơ bản của việc học Tiếng Đức bằng cách:
+Ở giai đoạn đầu, chương trình tập trung vào hai việc chính:
 
-- Học từ vựng thông dụng.
-- Học những nguyên tắc cơ bản về cách ngôn ngữ hoạt động.
+- Làm quen với các từ vựng thông dụng
+- Hiểu những quy tắc ngữ pháp cơ bản nhất để không bị “mù cấu trúc” khi gặp câu tiếng Đức.
 
-## Từ vựng
+## 2.2 Từ vựng
 
-Anki là một trong những ứng dụng ôn tập từ vựng mình _yêu thích nhất_. Đây là app flashcard cho phép bạn dùng bộ thẻ có sẵn hoặc tự tạo của riêng mình! ([Bấm vào đây](https://youtu.be/6BJgxHC3Yuc?si=Bsxo_8IPK9Wy7Go2) để tìm hiểu thêm về Anki và cách sử dụng).
+Ở giai đoạn đầu, từ vựng là nền tảng quan trọng nhất. Ngữ pháp sẽ không giúp được nhiều nếu bạn không hiểu các từ xuất hiện trong câu. Vì vậy, trọng tâm của phần này là xây dựng một vốn từ đủ để bạn bắt đầu nhận diện ngôn ngữ khi đọc và nghe.
 
-![](img/anki-example1.png)
+Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học Tiếng Đức. Nếu bạn chỉ học Anki mà không tiếp xúc với Tiếng Đức thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Đức vẫn chưa được cải thiện nhiều.
 
-Mình sẽ dùng [Goethe Verlag](https://ankiweb.net/shared/info/293204297) trên Anki để học gần 1.000 từ phổ biến nhất trong truyền thông Tiếng Đức, rồi chuyển sang sentence mining (hay còn gọi là *đào câu*, đọc hướng dẫn về [Sentence Mining](/ngoai-ngu/sentence-mining/) để biết thêm chi tiết). Đây là kỹ thuật lấy từ và câu mới trực tiếp từ tài nguyên immersion bằng công cụ như [ASBplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab?hl=en) ([Bấm vào đây](https://youtu.be/KxLRp1yd8Ro?si=cDGjOWdTygdl5ZpU) để xem hướng dẫn sentence mining bằng ASBplayer).
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Đức1K**]() (Kéo xuống là thấy nút Download).
 
-Một điều mà cá nhân mình gợi ý là dừng sentence mining sau 2-3.000 thẻ. Làm thẻ Anki rất dễ gây nghiện, và bạn có thể tạo đến 10.000 thẻ hoặc hơn. Nhưng thực tế, có quá nhiều thẻ như vậy _không_ hữu ích. Bạn chỉ cần số lượng từ phổ biến thường gặp, thay vì nhồi nhét tất cả.
+## 2.3 Ngữ pháp
 
-## Ngữ pháp
+Việc học ngữ pháp tương đối quan trọng trong việc học Tiếng Đức. Có rất nhiều tài liệu ngữ pháp ngoài kia, tốt cũng có mà không tốt cũng có. Chỉ có một nguồn học ngữ pháp là không đủ cho tất cả mọi người.
 
-[German Grammar Primer](https://zenith-raincoat-5cf.notion.site/German-Grammar-Primer-8ebe0eb747b442c18608b58f0a107787) là hướng dẫn học ngữ pháp Tiếng Đức nhanh (bằng Tiếng Anh). Một tài nguyên miễn phí khác mà dạy Tiếng Đức bằng Tiếng Việt là danh sách phát [Ngữ Pháp Tiếng Đức A1.1](https://www.youtube.com/playlist?list=PL5aBMauj57NuKkV9sVMUUiXGVsx_dnNZ_) hoặc [Ngữ pháp Tiếng Đức của DeutschFlex](https://www.youtube.com/playlist?list=PLEoRTUA8DxB5KN0MPZUWWNWnEaV-LvVkP)
+Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn mà bạn thấy phù hợp với bản thân:
 
-## Comprehensible Input (Nội dung dễ hiểu)
+- [Ngữ Pháp Tiếng Đức A1.1](https://www.youtube.com/playlist?list=PL5aBMauj57NuKkV9sVMUUiXGVsx_dnNZ_)
+- [Ngữ pháp Tiếng Đức của DeutschFlex](https://www.youtube.com/playlist?list=PLEoRTUA8DxB5KN0MPZUWWNWnEaV-LvVkP)
 
-Đây là loại input mà bạn **hiểu được phần lớn nội dung**, dù vẫn có một vài từ hoặc cấu trúc bạn chưa biết. Nhờ ngữ cảnh, hình ảnh, hoặc kiến thức sẵn có, bạn vẫn đoán được ý chung của câu hoặc đoạn văn. Theo thời gian, não bộ sẽ tự động liên kết những "mảnh ghép còn thiếu" với ý nghĩa phù hợp --- mà không cần phải dịch từng từ.
+Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
-Nói cách khác: bạn không cần hiểu 100% mọi thứ. Chỉ cần hiểu đủ để theo kịp nội dung.
+## 2.4 Immersion cho tân thủ
 
-Đây chính là lý do Comprehensible Input rất hiệu quả: bạn tiếp xúc với ngôn ngữ trong ngữ cảnh thực tế, và từ vựng + cấu trúc mới được tiếp thu một cách tự nhiên.
+Ở phần 1.3, mình đã nói về [comprehensible input](comprehensible-input.md). Đây là input mà bạn có thể hiểu được, cứ mỗi vài câu lại có một số mảnh ghép bị thiếu. Với kiểu immersion này, trong tiềm thức bạn sẽ tự điền thêm vào những phần bạn thấy chưa hiểu bằng cách đoán ý dựa trên ngữ cảnh, đó là lý do tại sao kiểu input này lại vô cùng hữu ích cho việc học ngôn ngữ.
 
-Đây là một số ví dụ, bạn hãy thử xem video sau đây của [Deutsch mit Lari](https://www.youtube.com/@deutsch_mit_lari/videos):
+Nhưng có một vấn đề. Bạn sẽ làm gì nếu không có nguồn comprehensible input? Là người mới bắt đầu, không có nội dung nào là dễ cả. Trên thực tế, đây là lý do tại sao mọi người thường lạc lối và bắt đầu đọc từ tài liệu này sang tài liệu khác. Mặc dù incomprehensible input cũng có những tác dụng nhất định và hỗ trợ cho việc học, nhưng sẽ rất khó để có thể vượt qua rào cản ban đầu ấy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gl46OAObDtw?si=dbjM_Jd-X3Dy5dWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Việc không hiểu được nội dung mình muốn tiêu thụ khá khó chịu, trừ khi bạn có một hướng tư duy cụ thể về nó - cảm thấy vui khi biết rằng mình đang tiến bộ dần dần kể cả khi khó có thể thấy một cách rõ rệt. Tuy nhiên, để duy trì tư duy này mọi lúc không hề dễ dàng, không nên dựa vào nó để làm động lực thúc đẩy cho sự kiên trì trong học tập - chìa khóa số một để thành thạo bất kỳ kỹ năng nào.
 
-Bạn thấy thế nào, dễ hiểu không? Mình tin là kể cả bạn chưa học một từ vựng Tiếng Đức nào, bạn cũng có thể hiểu được kha khá nội dung trong video.
+Vậy làm cách nào để không phải cảm thấy áp lực khi phải tiêu thụ các nội dung khó hiểu?
 
-Các nguồn Comprehensible Input khác:
+Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể cấp độ ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục immerse. Dần dần, khi trải nghiệm ngôn ngữ phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm comprehensible input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
 
-[Peppa Pig Tiếng Đức](https://www.youtube.com/channel/UCNclt7O1bO7hz8Mari68neg)
+## 2.5 Cách immerse
 
-[Naturlich German](https://www.youtube.com/channel/UCsYGAmiWIvOjvT9f1sgQXRw/playlists)
+### Đọc & Từ điển
 
-[kathrin shechtman](https://www.youtube.com/playlist?list=PLO4l-x0dJROw6mRM_wC9253hZgn0wmzQu)
+Để giúp cho việc đọc Tiếng Đức trở lên dễ dàng hơn thì có thể Yomitan trên trình duyệt. Đọc [hướng dẫn tải xuống](yomitan.md) 
 
-[Hallo aus Berlin](https://www.youtube.com/playlist?list=PLtnwp9jtWtvhXC1EIKJGNRhvwjCaAX_n_)
+### Lựa chọn nội dung Immersion
 
-[Deutsch Direkt](https://www.youtube.com/playlist?list=PLsfkZZGbu8VT8y6L3YbFsfslp8CwzEvwl)
+Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, drama, tiểu thuyết, game hoặc YouTube. Chỉ cần bạn thích bất cứ thứ gì bạn chọn để immerse là được.
 
-[Extr@ auf Deutsch](https://www.youtube.com/playlist?list=PLsfkZZGbu8VShZeYjcx0Zc8kJYmJN_aTJ)
+### Cách để thực hiện Listening Immersion 
 
-## Immersion (Tiếp nhận ngôn ngữ)
+Chúng ta không muốn suy nghĩ quá nhiều về mọi thứ khi đang nghe. Thả mình theo dòng chảy (flow) cho đến khi bạn nghe thấy thứ mà bạn muốn tra.
 
-Nếu bạn đã hoàn thành (hoặc gần xong) bộ thẻ từ vựng Tiếng Đức cơ bản ở trên đồng thời có một lượng hiểu ngữ pháp tương đối, chúc mừng bạn nha. Có thể hiện tại bạn đang cảm thấy gần như không hiểu bất kì nội dung nào ở ngoại ngữ mục tiêu của mình. Điều này là hoàn toàn bình thường. Bạn vẫn chưa tiếp thụ được nhiều kiến thức về ngôn ngữ đấy nhưng bạn đã học được tương đối rồi đấy.
+Có một số cấp độ nhất định khi nghe. Cấp độ một sẽ là nghe free-flow, nghe theo flow mà không tra từ. Cấp độ hai sẽ là tra những phần bạn muốn tra nhưng vẫn để bài nghe chạy. Cấp độ ba sẽ dừng ở mỗi từ chưa biết và tra.
 
-Bây giờ là lúc bắt đầu hành trình thực sự. Bước này về cơ bản sẽ không bao giờ kết thúc vì càng tiêu thụ nội dung ngôn ngữ mục tiêu thì kĩ năng của bạn sẽ càng trở nên tốt hơn.
+Ở giai đoạn sơ cấp đến trung cấp, kỹ năng nghe hoàn toàn nằm ở cấp độ một và cấp độ hai. Đừng suy nghĩ quá nhiều về điều đó và hãy để ý tất cả những cơ hội nhỏ mà bạn bắt được trong khi nghe.
 
-**Immersion. Immersion. Immersion**. Tiếp xúc với ngôn ngữ, *thật nhiều*.
+#### Nghe "chủ động" và "thụ động"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5Qxr8OGkaA?si=m1iKHkXpHxo97u8T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Nghe chủ động là khi bạn tập trung hoàn toàn vào việc nghe của mình. Bạn đang thực hiện immersion tất cả các khía cạnh của nó như là nhìn vào màn hình chẳng hạn. Đây là kiểu nghe có lợi nhất.
 
-*xem thử video này của MattVSJapan cho có động lực nhé :> nhìn setup mà mê*
+Nghe "thụ động" là khi bạn làm việc khác và nghe ở chế độ nền. Nếu bạn có lối sống bận rộn thì có thể tranh thủ từng khoảnh khắc để nghe. Bạn nên thực hành thực hiện immersion "thụ động" để lấp đầy những khoảng trống - những lúc mà bạn thường không học Tiếng Đức.
 
-Phần việc chính trong toàn bộ quá trình học của bạn là: học từ vựng + ngữ pháp, rồi thực hành immersion sử dụng comprehensible input (hoặc nội dung Tiếng Đức mà bạn yêu thích).
+### Làm thế nào để thực hành immersion với việc đọc
 
-Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Đức). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ (*Theo thuật ngữ thì được gọi là input, nhưng mình thích dùng immersion hơn*).
+Ngược lại khi nghe nghe, đọc là một cách tiếp cận đòi hỏi "phân tích" và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ. Vòng lặp quy trình về cơ bản là **đọc → tra từ → phản ứng (reaction) → đọc thêm → tra từ → (lặp lại)**. Đây chính là cách mà bạn sẽ xây dựng khả năng đọc của bản thân.
 
-Bạn hãy thử xem tập Peppa Pig bằng Tiếng Đức sau đây, không cần xem hết cũng được (việc xem nội dung Tiếng Đức không phụ đề này chính là *immersion*, nhưng mà với người mới học thì sẽ không dễ hiểu lắm):
+### Tỷ lệ lý tưởng giữa nghe và đọc
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lAn5oS9f3ZM?si=L1Cj48YbsLhHlTmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Ở giai đoạn đầu, bạn nên theo tỷ lệ nghe và đọc là 7:3. Do nghe là hình thức tự nhiên nhất của ngôn ngữ, vì vậy mình tin rằng việc ưu tiên nó là điều cần thiết để khiến bộ não của bạn xử lý Tiếng Đức một cách tự nhiên hơn.
 
-Bạn cũng cần bắt đầu xây dựng một bộ _mining deck_ (bộ thẻ mining). Một bộ thẻ mining là một bộ thẻ Anki bạn tự tạo mà khi thông qua các nội dung mà bạn tiêu thụ, bạn sẽ "đào" từ vựng từ câu mà bạn tiếp xúc trong lúc immerse. Việc tạo một bộ thẻ mining là một chủ đề lớn và sẽ được giải thích kĩ hơn ở bài viết [Mining](/ngoai-ngu/mining/). Bạn nên bắt đầu nghe ngoại ngữ càng sớm càng tốt. Bạn có thể tìm gợi ý nội dung để tiêu thụ ở trong trang [Tài nguyên](resources.md). Tìm nội dung bạn thích, bất kì thứ gì miễn là ở ngôn ngữ mục tiêu của bạn. Ban đầu, khả năng nghe của bạn sẽ kém hơn khả năng đọc rất nhiều. Và nếu có thể, thử đi tìm người bản ngữ để thực hành output (nói, viết) cùng. Sẽ thích hơn rất nhiều và cũng sẽ giúp cho bạn có động lực học.
+Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ đều 5:5 khi Tiếng Đức của bạn đã tốt hơn.
 
+## 2.6 Vòng lặp học tập của người mới bắt đầu
 
-### Xem nhiều chương trình TV để học Tiếng Đức
+### Cách làm sai
 
-Bạn có thể tự học Tiếng Đức qua TV không? Có chứ! Học ngôn ngữ này qua TV HOÀN TOÀN khả thi—ngay cả khi bạn mới bắt đầu!
+!!! failure "Cách học sai"
+    Học Tiếng Đức cơ bản, sau đó học TẤT CẢ 1000 từ trong bộ thẻ từ vựng, sau đó học TẤT CẢ ngữ pháp trước khi bạn thử immerse lần đầu tiên..
+ 
+Đây là một cách tiếp cận rất tệ. Cần thực hiện mỗi thứ một chút.
 
-Nếu được làm lại từ đầu, mình sẽ xem TV sớm nhất có thể. Thực ra đây chính là một trong những điều mình đã làm, và mình chắc chắn sẽ làm lại nếu có cơ hội.
+### Cách làm đúng 
 
-Mình đã xem hàng trăm giờ TV bằng Tiếng Đức. Mình nghĩ đây là một trong những lý do chính giúp mình tiến bộ nhanh như vậy. Đây là lý do vì sao xem TV rất hiệu quả:
+Khi bạn vẫn đang học từ vựng cơ bản, bạn nên thử bằng xem thứ gì đó bằng Tiếng Đức mà không có phụ đề để xây dựng tinh thần immersion. Nó có thể là bất cứ điều gì bạn thích và bạn không cần phải hiểu bất cứ điều gì.
 
-- Nó giải trí! Các bộ phim mình xem có kinh phí lớn, chất lượng hình ảnh và âm thanh cao
-- Nó dễ hiểu hơn vì mình vừa có thể đọc phụ đề, vừa nghe cảm xúc trong giọng nói, vừa nhìn những gì đang diễn ra trên màn hình!
-- Mình được nghe Tiếng Đức _tự nhiên_, chứ không phải giọng nói chậm và cẩn thận như trong tài liệu cho người mới.
-- Mình được tiếp xúc với nhiều giọng vùng miền khác nhau mà không bị rối.
+Sau đó bạn nên học từ vựng và ngữ pháp cùng một lúc. Học 10 từ mới và 2 cấu trúc ngữ pháp mỗi ngày chẳng hạn? Và trong cùng ngày đó, hãy thực hiện immersion thêm một số các nội dung.
 
-Mình chắc chắn sẽ làm lại điều đó, bắt đầu với phim dễ rồi dần nâng cao, và điều này dẫn đến ý tiếp theo.
+!!! question "Mình nên thực hành immersion bao lâu mỗi ngày?"
+    Mình khuyên bạn nên dành khoảng 1 giờ đến 2 giờ khi bạn mới bắt đầu thực hành immersion. Bạn hoàn toàn có thể dành nhiều thời gian hơn thế và bạn sẽ tiến bộ nhanh hơn khi thực hiện immersion nhiều hơn mỗi ngày.
 
-## Vậy thì tóm gọn lại, mình cần làm những gì để học Tiếng Đức?
+## 3.1 Về nói và viết (Output)
 
-1. Học bảng chữ cái Tiếng Đức.
-2. Học [Bộ thẻ từ vựng 1K](https://ankiweb.net/shared/info/1124298719) để xây dựng vốn từ cơ bản trước khi immerse. Hãy học cách sử dụng Anki qua [Học viện Anki](https://ankivn.com/guides/). Bạn cũng nên cài [Yomitan](https://yomitan.wiki) (Firefox/Chrome) để có thể tra từ bằng cách di chuột.
-3. Vì bạn sẽ học từ vựng song song với ngữ pháp, nên việc điều chỉnh tốc độ học là rất quan trọng. Điều này không có nghĩa là bạn không nên thử thách bản thân. Bạn có thể thay đổi số thẻ mới mỗi ngày trong Anki, nhưng hãy để mặc định trong vài ngày đầu để xem có phù hợp không. Tăng số thẻ nếu bạn thấy còn dư sức, và giảm nếu bạn cảm thấy quá tải (hoặc tự ép mình cố gắng hơn). Khi đã quen, tổng số thẻ cần ôn mỗi ngày thường gấp khoảng 10 lần số thẻ mới (ví dụ: 20 thẻ mới/ngày ≈ 200 thẻ ôn/ngày). Bạn nên đặt giới hạn trên cho số thẻ ôn mỗi ngày ở mức cao nhất có thể, vì việc bỏ lỡ ôn tập sẽ làm ảnh hưởng đến hệ thống lặp lại ngắt quãng (spaced repetition) của Anki. Nếu bạn không theo kịp, hãy giảm số thẻ mới thay vì giới hạn số thẻ ôn.
-4. Để học ngữ pháp, mình gợi ý [Ngữ Pháp Tiếng Đức A1.1](https://www.youtube.com/playlist?list=PL5aBMauj57NuKkV9sVMUUiXGVsx_dnNZ_) hoặc [Ngữ pháp Tiếng Đức của DeutschFlex](https://www.youtube.com/playlist?list=PLEoRTUA8DxB5KN0MPZUWWNWnEaV-LvVkP) (Tìm được mỗi hai danh sách phát này :))).
-5. Sau khi bạn đã học xong giáo trình ngữ pháp đã chọn, bạn có thể bắt đầu đọc Tiếng Đức. Mặc dù không bắt buộc, nhưng việc đọc sẽ dễ hơn nếu bạn đã đạt khoảng 1000--2000 từ vựng (bạn vẫn sẽ phải tra nhiều từ, nhưng sẽ đỡ vất vả hơn).
-6. Ở giai đoạn này, hầu hết mọi người bắt đầu tạo cho mình một mining deck riêng. Đây là bộ từ vựng mà bạn thêm các từ mới mà bạn học được thông qua quá trình immersion. Bạn nên sử dụng [tích hợp Yomitan với Anki](https://yomitan.wiki), cho phép tạo thẻ Anki mới chỉ với một cú nhấp chuột ([hướng dẫn](https://yomitan.wiki/anki)).
-7. Đọc nhiều hơn. Ban đầu việc đọc sẽ chậm, nhưng càng luyện tập bạn sẽ càng tiến bộ.
-8. Tận hưởng những nội dung hấp dẫn.
+Nhiều người thường có quan niệm sai lầm rằng việc tập nói nhiều sẽ giúp cách cải thiện khả năng ngôn ngữ, nhưng thực tế không phải vậy, vì input mà chúng ta có được từ việc nghe và thấy người bản ngữ sử dụng ngôn ngữ mới thực sự hữu ích. Mặc dù output (đầu ra, bao gồm nói và viết) không trực tiếp cải thiện trình độ ngôn ngữ của bạn, nhưng việc luyện tập output vẫn tương đối quan trọng, cho dù là nhắn tin hay tập nói, bởi vì input và output luôn song hành với nhau. Việc output một cách chủ động sẽ buộc não bạn phải kiểm tra xem mình thực sự hiểu đúng những gì đã nghe hay chưa — và rồi bạn sẽ bắt đầu vô thức tìm cơ hội để áp dụng những gì đã nghe được vào thực tế.
 
-## Từ giờ trở đi
+Bạn nên nạp input thường xuyên song song với việc output thường xuyên.
 
-Chà chà, chúc mừng nhé. Bạn đã hoàn thành chương trình này. Đến giai đoạn này, có lẽ bạn sẽ cảm thấy khá thoải mái với Tiếng Đức (và sẽ không còn là một ác mộng như thời còn mới học nữa). Bạn đã (hoặc gần như) đạt đến mức có thể "giao tiếp được". Bạn đã cảm thấy mình *bueno en español* chưa? Có lẽ là chưa. Nhưng điều đó có quan trọng không? Thật ra là không. Nếu bạn đã đi được đến đây, nghĩa là bạn thực sự yêu thích ngôn ngữ này, và sự lưu loát không còn là mục tiêu duy nhất nữa. Việc học Tiếng Đức giờ đã trở thành một phần trong lối sống của bạn, và miễn là bạn tiếp tục học từ mới, cụm từ mới, thành ngữ, v.v., bạn chắc chắn sẽ đạt đến trình độ mong muốn.
+Trái lại với những gì mà nhiều phương pháp học tập dựa trên immersion nói, mình không tin rằng việc không thực hiện "output" của bạn cho đến khi bạn thực sự giỏi là một điều tốt vì những lý do kiểu như "nói sai sẽ ảnh hưởng xấu đến Tiếng Đức của mình". Điều này khiến bạn bỏ lỡ rất nhiều cơ hội để tiếp thu những thứ sẽ sử dụng trong việc output của mình sớm hơn và khiến bạn mang trong mình chủ nghĩa hoàn hảo độc hại và trở nên quá bảo vệ Tiếng Đức của bản thân.
 
-Hãy tiếp tục củng cố Tiếng Đức của bạn thông qua lượng lớn tiếp xúc, immersion và input (đầu vào) dễ hiểu (comprehensible input). Nếu có thể, thử đến bất kì đất nước nào nói Tiếng Đức (Đức, Thụy Sĩ, Bỉ) để trải nghiệm văn hóa gắn liền với ngôn ngữ bạn đang học (và tất nhiên là để luyện Tiếng Đức nữa).
+## 3.2 Phát âm
+
+Nghe nhiều hơn để có một phát âm tự nhiên và giống người nói Tiếng Đức bản ngữ nhất. Những người học muốn tiến xa hơn có thể thử học IPA, lý tưởng nhất là càng sớm càng tốt.
+
+## Kết thúc hướng dẫn: giai đoạn sau và hơn thế nữa
+
+Quá trình học Tiếng Đức chỉ đơn giản là thực hiện Immersion thật nhiều và học từ vựng với ngữ pháp. Bạn thực sự có thể thông thạo Tiếng Đức bằng phương pháp này.
+
+Bạn cũng sẽ bắt đầu tự làm thẻ từ vựng của mình từ những từ mình tiếp xúc trong quá trình học Tiếng Đức, được gọi là *mining*. Bạn có thể đọc [Hướng dẫn mining trên trang này](mining.md) (Đây là hướng dẫn sử dụng công cụ để giúp quá trình mining được nhanh hơn. Bạn nên đọc bài [Sentence Mining (Đào câu)](/ngoai-ngu/sentence-mining/) để tìm hiểu thêm). Mining về cơ bản sẽ trở thành phần trọng tâm của *việc học* Tiếng Đức.
+
+*Video dưới đây sẽ giúp bạn hiểu cơ bản về sentence mining (đây là thực hiện thủ công):*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLnJ1l6f7mQ?si=n1yPcQ7YU72On_es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Cảm ơn bạn rất nhiều vì đã dành thời gian đọc hướng dẫn này. Nếu bạn có bất kỳ câu hỏi nào, bạn có thể hỏi trên kênh Discord của chúng mình.
+
+[Tham gia cộng đồng học trên Discord](join.md) 
+
+## Nguồn bài viết
+
+Bài viết này được dịch từ bài [Japanese Guide](https://learnjapanese.moe/guide/) và đã hiệu đính lại để phù hợp với những người học Tiếng Đức.
