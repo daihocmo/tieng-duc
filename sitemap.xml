@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://daihocmo.github.io/</loc>
-         <lastmod>2026-02-03</lastmod>
+         <lastmod>2026-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://daihocmo.github.io/comprehensible-input/</loc>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
          <loc>https://daihocmo.github.io/guide/</loc>
-         <lastmod>2026-02-03</lastmod>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
-         <loc>https://daihocmo.github.io/immersion/</loc>
-         <lastmod>2026-02-03</lastmod>
+         <loc>https://daihocmo.github.io/join/</loc>
+         <lastmod>2026-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://daihocmo.github.io/mining/</loc>
+         <lastmod>2026-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://daihocmo.github.io/monolingual/</loc>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
          <loc>https://daihocmo.github.io/recommendations/</loc>
-         <lastmod>2026-02-03</lastmod>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
          <loc>https://daihocmo.github.io/resources/</loc>
-         <lastmod>2026-02-03</lastmod>
+         <lastmod>2026-02-11</lastmod>
     </url>
     <url>
          <loc>https://daihocmo.github.io/yomitan/</loc>
-         <lastmod>2026-02-03</lastmod>
+         <lastmod>2026-02-11</lastmod>
     </url>
 </urlset>
