@@ -58,7 +58,6 @@ Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô
 
 Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người không phải là người bản ngữ Tiếng Đức và có thể là đã học ngữ pháp Tiếng Đức từ trước, nhưng họ sẽ chẳng mấy khi nghĩ về các cấu trúc ngữ pháp khi tương tác với Tiếng Đức hàng ngày.
 
-
 ## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
 
 ![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
@@ -117,6 +116,13 @@ Mục tiêu của phần này là giúp người học nhận diện mặt chữ
 
 - Làm quen với các từ vựng thông dụng
 - Hiểu những quy tắc ngữ pháp cơ bản nhất để không bị “mù cấu trúc” khi gặp câu tiếng Đức.
+- Học về các từ đồng gốc (cognates) giữa Tiếng Đức và Tiếng Anh (nếu bạn có gốc Tiếng Anh).
+
+### Từ đồng gốc
+
+Tiếng Đức và tiếng Anh đều thuộc nhánh **Germanic** của hệ Ấn-Âu, vì vậy chúng chia sẻ rất nhiều từ đồng gốc có chung nguồn gốc lịch sử, dù hình thức và phát âm có thể đã thay đổi theo thời gian. Ví dụ tiêu biểu gồm *house – Haus*, *water – Wasser*, *name – Name*, *father – Vater*. Đối với người đã biết tiếng Anh, việc học các cognates này giúp nhận diện từ mới nhanh hơn và tạo cảm giác quen thuộc khi tiếp cận tiếng Đức.
+
+Tuy vậy, cũng giống như các cặp ngôn ngữ khác, người học cần lưu ý đến **false cognates (false friends)** giữa tiếng Đức và tiếng Anh. Một số từ có hình thức tương tự nhưng nghĩa khác nhau, chẳng hạn *gift* (EN: “món quà”) và *Gift* (DE: “chất độc”), hoặc *bald* (EN: “hói”) và *bald* (DE: “sắp, chẳng bao lâu”). Do đó, việc học từ đồng gốc nên đi kèm với kiểm tra nghĩa trong ngữ cảnh cụ thể. Khi được sử dụng một cách có hệ thống, cognates giữa tiếng Đức và tiếng Anh là công cụ rất hiệu quả để tận dụng nền tảng tiếng Anh trong quá trình học tiếng Đức.
 
 ## 2.2 Từ vựng
 
@@ -124,7 +130,7 @@ Mục tiêu của phần này là giúp người học nhận diện mặt chữ
 
 Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học Tiếng Đức. Nếu bạn chỉ học Anki mà không tiếp xúc với Tiếng Đức thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Đức vẫn chưa được cải thiện nhiều.
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Đức1K**]() (Kéo xuống là thấy nút Download).
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Đức1K**](https://ankiweb.net/shared/info/1318915873) (Kéo xuống là thấy nút Download).
 
 ## 2.3 Ngữ pháp
 
