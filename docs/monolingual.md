@@ -84,7 +84,7 @@ Mình sẽ cài đặt sử dụng Yomitan vì công cụ này giúp mình có t
 
 ### Từ điển gợi ý
 
-(TODO)
+- **[Kaikki-to-Yomitan German monolingual (de-de)](https://yomidevs.github.io/kaikki-to-yomitan/)**: Comprehensive monolingual German dictionary converted from the German Wiktionary edition; provides detailed definitions, etymology, inflections, and examples directly in German (**verbose** but good coverage for intermediate/advanced learners).
 
 Sau đó bạn hãy tải từ điển về và import bộ từ điển đó vào Yomitan.
 

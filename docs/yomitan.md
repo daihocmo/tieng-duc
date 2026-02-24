@@ -17,7 +17,7 @@ Sau khi cài xong nó sẽ mở một tab mới, bạn đóng trang đó lại v
 
 ![](img/yomi1.png)
 
-*nhớ phải thay đổi ngôn ngữ về Tiếng Đức (Korean) nhé.*
+*nhớ phải thay đổi ngôn ngữ về Tiếng Đức (German) nhé.*
 
 ## Tải từ điển
 
@@ -29,12 +29,13 @@ Bạn có thể xem danh sách [từ điển Tiếng Đức cho Yomitan](https:/
 
 ### Từ điển song ngữ (Đức - Việt)
 
+- [Từ điển Đức - Việt (Deutsch-Vietnamesisch) + BonsaDictDV](https://yomitan-vi.github.io/tu-dien-duc-viet-yomitan/)
 - [Từ điển Đức - Việt (OVDP)](https://github.com/catusf/tudien/releases/download/v4.4/star_ducviet.yomitan.zip)
 
 *Từ điển song ngữ (Đức - Anh):*
 
 - [seth-js/yomichan-de](https://github.com/seth-js/yomichan-de/release)
-- [Wikitionary](https://yomidevs.github.io/kaikki-to-yomitan/) - Nói chung là số lượng entries cho Đức - Việt vẫn còn hạn chế.
+- [Wikitionary](https://yomidevs.github.io/kaikki-to-yomitan/)
 - Tìm ở kho này cũng ra kha khá: [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#other-languages)
 
 ### Từ điển đơn ngữ (Đức - Đức)
